@@ -1,0 +1,41 @@
+:root { 
+  --black: #000000;
+  --green: #0ef205;
+  --kilamanjaro: #260800;
+  --seashell-peach: #fff6ef;
+  --seashell-peach-2: #fff7ef;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 16px;
+  --font-size-s: 13px;
+  --font-size-xl: 26px;
+  --font-size-xs: 8px;
+  --font-size-xxl: 33px;
+  --font-size-xxxl: 41px;
+ 
+  --font-family-andale_mono-regular: "Andale Mono-Regular", Helvetica;
+  --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+}
+.andalemono-regular-normal-kilamanjaro-16px {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.andalemono-regular-normal-kilamanjaro-33px {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.andalemono-regular-normal-kilamanjaro-8px {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}

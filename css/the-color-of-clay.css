@@ -1,0 +1,398 @@
+/* screen - the-color-of-clay */
+
+.the-color-of-clay {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2408px;
+  width: 1280px;
+}
+
+.the-color-of-clay .header {
+  align-items: flex-start;
+  background-color: var(--kilamanjaro);
+  display: flex;
+  height: 118px;
+  min-width: 1280px;
+  padding: 38.5px 51.5px;
+}
+
+.the-color-of-clay .the-color-of-clay-1 {
+  -webkit-text-stroke: 0.5px var(--green);
+  color: var(--green);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: 34px;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.the-color-of-clay .hero_image_container {
+  align-items: flex-end;
+  background-image: url(../img/me-code@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 508px;
+  min-width: 1280px;
+  padding: 61px 52px;
+}
+
+.the-color-of-clay .frame-2 {
+  align-items: center;
+  background-color: var(--seashell-peach-2);
+  display: flex;
+  flex-direction: column;
+  min-height: 255px;
+  padding: 22.5px 0;
+  width: 303px;
+}
+
+.the-color-of-clay .the-secrets-of-ancient-mesopotamia {
+  -webkit-text-stroke: 0.5px var(--kilamanjaro);
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 258px;
+}
+
+.the-color-of-clay .lorem-ipsum-dolor-si {
+  color: var(--black);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-right: 6.0px;
+  margin-top: 18px;
+  width: 251px;
+}
+
+.the-color-of-clay .frame-3 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--green);
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  margin-left: 23px;
+  margin-top: 19px;
+  padding: 11px 26px;
+  width: fit-content;
+}
+
+.the-color-of-clay .button {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  text-align: center;
+  width: fit-content;
+}
+
+.the-color-of-clay .subheading_container {
+  align-items: flex-start;
+  background-color: var(--seashell-peach-2);
+  display: flex;
+  height: 143px;
+  min-width: 1280px;
+  padding: 41px 45px;
+}
+
+.the-color-of-clay .content-on-whats-about-to-follow {
+  color: var(--kilamanjaro);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 268px;
+}
+
+.the-color-of-clay .cards_container {
+  align-items: flex-start;
+  background-color: var(--kilamanjaro);
+  display: flex;
+  flex-direction: column;
+  min-height: 1280px;
+  padding: 77px 52px;
+  width: 1280px;
+}
+
+.the-color-of-clay .description-of-set-of-images {
+  color: var(--green);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 665px;
+}
+
+.the-color-of-clay .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 123px;
+  margin-top: 1px;
+  min-width: 1175px;
+}
+
+.the-color-of-clay .sumerian_-kings_-list {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  min-width: 526px;
+}
+
+.the-color-of-clay .overlap-group {
+  height: 484px;
+  position: relative;
+  width: 532px;
+}
+
+.the-color-of-clay .rectangle-43 {
+  background-color: var(--seashell-peach);
+  height: 484px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 526px;
+}
+
+.the-color-of-clay .group-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 455px;
+  position: absolute;
+  top: 29px;
+  width: 532px;
+}
+
+.the-color-of-clay .image-title {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42.0px;
+}
+
+.the-color-of-clay .surname {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42.0px;
+  margin-top: 11px;
+  width: 209px;
+}
+
+.the-color-of-clay .data-about-image-below {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42.0px;
+  margin-top: 47px;
+  min-height: 18px;
+}
+
+.the-color-of-clay .epic_of_gilgamesh {
+  height: 283px;
+  margin-top: 23px;
+  width: 526px;
+}
+
+.the-color-of-clay .epic_of_-gilgamesh {
+  align-items: flex-start;
+  background-color: var(--seashell-peach);
+  display: flex;
+  flex-direction: column;
+  min-height: 484px;
+  width: 526px;
+}
+
+.the-color-of-clay .image-title-1 {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 49.0px;
+  margin-top: 29px;
+  width: 276px;
+}
+
+.the-color-of-clay .surname-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 49px;
+  margin-top: 11px;
+  width: 199px;
+}
+
+.the-color-of-clay .data-about-image-below-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 49.0px;
+  margin-top: 47px;
+  width: 67px;
+}
+
+.the-color-of-clay .epic_of_gilgamesh-1 {
+  height: 283px;
+  margin-top: 23px;
+  object-fit: cover;
+  width: 526px;
+}
+
+.the-color-of-clay .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 123px;
+  height: 484px;
+  margin-top: 57px;
+  min-width: 1175px;
+}
+
+.the-color-of-clay .ziggurat_ur {
+  align-items: flex-start;
+  background-color: var(--seashell-peach);
+  display: flex;
+  flex-direction: column;
+  min-height: 484px;
+  width: 526px;
+}
+
+.the-color-of-clay .image-title-2 {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 48.77px;
+  margin-top: 29px;
+  width: 276px;
+}
+
+.the-color-of-clay .surname-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 48.77px;
+  margin-top: 11px;
+  width: 279px;
+}
+
+.the-color-of-clay .data-about-image-below-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 48.77px;
+  margin-top: 47px;
+  width: 67px;
+}
+
+.the-color-of-clay .sumerian_wheel {
+  align-items: flex-start;
+  background-color: var(--seashell-peach);
+  display: flex;
+  flex-direction: column;
+  min-height: 484px;
+  width: 526px;
+}
+
+.the-color-of-clay .image-title-3 {
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: 29px;
+}
+
+.the-color-of-clay .surname-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: 11px;
+  width: 240px;
+}
+
+.the-color-of-clay .data-about-image-below-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: 47px;
+  min-height: 18px;
+}
+
+.the-color-of-clay .call_to-action_container {
+  align-items: center;
+  background-color: var(--seashell-peach-2);
+  display: flex;
+  gap: 128px;
+  height: 143px;
+  min-width: 1280px;
+  padding: 0 264px;
+}
+
+.the-color-of-clay .actions-description {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-width: 312px;
+  text-align: right;
+}
+
+.the-color-of-clay .group-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  min-height: 103px;
+  width: 242px;
+}
+
+.the-color-of-clay .actions-objective-i {
+  color: var(--black);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 240px;
+}
+
+.the-color-of-clay .frame-3-1 {
+  align-items: flex-start;
+  background-color: var(--green);
+  border-radius: 20px;
+  display: flex;
+  gap: 10px;
+  padding: 11px 26px;
+  width: fit-content;
+}
+
+.the-color-of-clay .footer {
+  align-items: flex-start;
+  background-color: var(--kilamanjaro);
+  display: flex;
+  height: 216px;
+  min-width: 1280px;
+  padding: 84px 209px;
+}
+
+.the-color-of-clay .title {
+  color: var(--green);
+  font-family: var(--font-family-andale_mono-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 46px;
+  min-width: 862px;
+  text-align: center;
+}
